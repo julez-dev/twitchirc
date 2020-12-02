@@ -4,6 +4,8 @@ The twitchirc package allows interacting with twitch's IRC server.
 
 This package is still in early development so not all IRC events are implemented yet.
 
+This package is inspired by and uses code from the [go-twitch-irc](https://github.com/gempir/go-twitch-irc) package
+
 ## Examples
 
 This creates a simple connection which will print all chat messages in the provided channel.
