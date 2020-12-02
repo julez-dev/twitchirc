@@ -1,6 +1,6 @@
 # twitchirc
 
-The twitchirc package allows interacting with twitch's IRC server.
+The twitchirc package allows you to interact with the twitch irc server.
 
 This package is still in early development so not all IRC events are implemented yet.
 
